@@ -1,9 +1,9 @@
 <?php 
 /**
- * This is a Anax pagecontroller.
+ * This is a Valla pagecontroller.
  *
  */
-// Include the essential config-file which also creates the $anax variable with its defaults.
+// Include the essential config-file which also creates the $valla variable with its defaults.
 include(__DIR__.'/config.php'); 
 
 
