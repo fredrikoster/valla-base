@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.example.com/</loc>
-    <lastmod>2005-01-01</lastmod>
+    <loc>http://www.student.bth.se/~froc14/oophp/kmom01/webroot/me.php</loc>
+    <lastmod>2014-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+	<loc>http://www.student.bth.se/~froc14/oophp/kmom01/webroot/reports.php</loc>
+	<loc>http://www.student.bth.se/~froc14/oophp/kmom01/webroot/source.php</loc>
   </url>
 </urlset> 
